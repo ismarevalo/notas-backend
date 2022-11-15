@@ -10,5 +10,5 @@
 7. npm rn start<br>
 8. Se instala el servidor de MongoDB desde: https://www.mongodb.com/try/download/community<br>
 <br>
-<tr>Luego de alistar las rutas y demás código del modelo MVC, se recomienda conectar la BD y para ello se instala robo 3T desde:<br>
-<tr>https://studio3t.com/download-thank-you/?OS=win64<br>
+Luego de alistar las rutas y demás código del modelo MVC, se recomienda conectar la BD y para ello se instala robo 3T desde:<br>
+https://studio3t.com/download-thank-you/?OS=win64<br>
